@@ -1,6 +1,6 @@
 # ¡Hola, bienvenido a mi perfil! 👋
 
-Actualmente estoy en 4 de carrera de Ingenieria de Computadores en la UCM.
+Actualmente estoy en 4 de carrera de [Ingeniería de Computadores](https://www.ucm.es/estudios/grado-ingenieriadecomputadores) en la UCM.
 
 ## Sobre mí
 
