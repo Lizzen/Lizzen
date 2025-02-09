@@ -4,14 +4,15 @@ Actualmente estoy en 4 de carrera de [Ingeniería de Computadores](https://www.u
 
 ## Sobre mí
 
-Me considero una persona trabajadora y organizada con gran afán de aprender y ampliar mis conocimientos, apasionado a todo lo que tiene que ver con tecnología e informatica. Estoy abierto a todo tipo de proyectos. 
+<p>
+Me considero una persona trabajadora y organizada con gran afán de aprender y ampliar mis conocimientos, apasionado a todo lo que tiene que ver con tecnología e informatica.<br>
+Estoy abierto a todo tipo de proyectos.<br>
 Actualmente, me llama la atención tanto el machine-learning como la algoritmia. Otros sectores que me gustan son la ciberseguridad y el hardware hasta el punto en el que consegui vulnerar un antiguo portátil hp capado para sacar más rendimiento. 
-(Resultó que venía muy limitada la placa base)
-También produzco música por mi cuenta, mejorando cada día y estoy abierto a todo tipo de colaboraciones.
+(Resultó que venía muy limitada la placa base)<br>
+También produzco música por mi cuenta, mejorando cada día y estoy abierto a todo tipo de colaboraciones.<br>
 
 Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
-
-
+</p>
 <h2 align="center">Social Media</h2>
 <div align="center">
   <a href="mailto:daviddfdiaz@gmail.com">
