@@ -48,6 +48,7 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
  <img alt="Static Badge" src="https://img.shields.io/badge/-Terminado-green?style=auto">
  <img alt="Static Badge" src="https://img.shields.io/badge/-En mantenimiento-blue?style=auto">
  <img alt="Static Badge" src="https://img.shields.io/badge/-No accesible temporalmente-red?style=auto">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-En proceso-orange?style=auto">
  
 ### C++
   <a href="https://github.com/Lizzen/FAL">
@@ -71,10 +72,10 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
 ### Java
 <p>Actualmente solo están en drive las versiones finales</p>
 
-  <a href="https://github.com/Lizzen/">
+  <a href="https://github.com/Lizzen/TP1">
     <img alt="Static Badge" src="https://img.shields.io/badge/TP1-Tecnología de la programación 1-red?style=auto">
   </a>
-  <a href="https://github.com/Lizzen/">
+  <a href="https://github.com/Lizzen/TP2">
     <img alt="Static Badge" src="https://img.shields.io/badge/TP2-Tecnología de la programación 2-red?style=auto">
   </a>
 
@@ -87,6 +88,14 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
   </a>
   <a href="https://github.com/Lizzen/PSyD">
     <img alt="Static Badge" src="https://img.shields.io/badge/PSyD-Programación de Sistemas y Dispositivos-green?style=auto">
+  </a>
+
+### Python
+  <a href="https://github.com/Lizzen/MIN">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MIN-Minería de datos y Big Data-orange?style=auto">
+  </a>
+  <a href="https://github.com/Lizzen/SI">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SI-Sistemas inteligentes (IA)-orange?style=auto">
   </a>
   
 ## Estadísticas de GitHub
