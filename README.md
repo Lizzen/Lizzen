@@ -43,6 +43,51 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
 - **Frameworks y Librerías:** SpringBoot.
 - **Bases de datos:** MySQL, MariaDB.
 
+## Subjects
+ <img alt="Static Badge" src="https://img.shields.io/badge/-Terminado-green?style=auto">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-En mantenimiento-blue?style=auto">
+ <img alt="Static Badge" src="https://img.shields.io/badge/-No accesible temporalmente-red?style=auto">
+ 
+### C++
+  <a href="https://github.com/Lizzen/FAL">
+    <img alt="Static Badge" src="https://img.shields.io/badge/FAL-Fundamentos de Algoritmos-green?style=auto">
+  </a>
+  <a href="https://github.com/Lizzen/ED">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ED-Estructura de Datos-green?style=auto">
+  </a>
+  <a href="https://github.com/Lizzen/DA">
+    <img alt="Static Badge" src="https://img.shields.io/badge/DA-Diseño de algoritmos-blue?style=auto">
+  </a>
+
+### Web
+  <a href="https://github.com/Lizzen/WEB-Tarkov-Trading-Hub-Part-2">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SW-Tarkov Trading Hub Part 2 (Sistemas Web)-green?style=auto">
+  </a>
+    <a href="https://github.com/Lizzen/WEB-GG">
+    <img alt="Static Badge" src="https://img.shields.io/badge/IW-GG (Ingeniería Web)-green?style=auto">
+  </a>
+
+### Java
+<p>Actualmente solo están en drive las versiones finales</p>
+
+  <a href="https://github.com/Lizzen/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TP1-Tecnología de la programación 1-red?style=auto">
+  </a>
+  <a href="https://github.com/Lizzen/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TP2-Tecnología de la programación 2-red?style=auto">
+  </a>
+
+### C
+  <a href="https://github.com/Lizzen/SO">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SO-Sistemas Operativos-blue?style=auto">
+  </a>
+  <a href="https://github.com/Lizzen/ASO">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ASO-Ampliación de Sistemas Operativos-green?style=auto">
+  </a>
+  <a href="https://github.com/Lizzen/PSyD">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PSyD-Programación de Sistemas y Dispositivos-green?style=auto">
+  </a>
+  
 ## Estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lizzen&show_icons=true&theme=radical)](https://github.com/Lizzen)
