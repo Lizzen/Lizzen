@@ -60,6 +60,9 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
   <a href="https://github.com/Lizzen/DA">
     <img alt="Static Badge" src="https://img.shields.io/badge/DA-Diseño de algoritmos-blue?style=auto">
   </a>
+  <a href="https://github.com/Lizzen/FP2">
+    <img alt="Static Badge" src="https://img.shields.io/badge/FP2-Fundamentos de la programación-green?style=auto">
+  </a>
 
 ### Web
   <a href="https://github.com/Lizzen/WEB-Tarkov-Trading-Hub-Part-2">
