@@ -7,9 +7,7 @@ Actualmente estoy en 4 de carrera de [Ingeniería de Computadores](https://www.u
 <p>
 Me considero una persona trabajadora y organizada con gran afán de aprender y ampliar mis conocimientos, apasionado a todo lo que tiene que ver con tecnología e informatica.<br>
 Estoy abierto a todo tipo de proyectos.<br>
-Actualmente, me llama la atención tanto el machine-learning como la algoritmia. Otros sectores que me gustan son la ciberseguridad y el hardware hasta el punto en el que consegui vulnerar un antiguo portátil hp capado para sacar más rendimiento. 
-(Resultó que venía muy limitada la placa base)<br>
-También produzco música por mi cuenta, mejorando cada día y estoy abierto a todo tipo de colaboraciones.<br>
+Actualmente, me llama la atención tanto el machine-learning como la algoritmia. Otros sectores que me gustan son la ciberseguridad y el hardware.
 
 Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
 </p>
@@ -21,20 +19,6 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
   <a href="https://www.linkedin.com/in/david-ferreras-d%C3%ADaz-6131962a5/">
     <img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
   </a> 
-</div>
-
-<h2 align="center">Music</h2>
-<div align="center">
-  <a href="mailto:daviddfdiaz@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?Size=auto&logo=gmail&logoColor=white">
-  </a> 
-  <a href="https://open.spotify.com/intl-es/artist/5Nj4I1gm4DoRHijIjHEcx2?si=pk6iMAY-SYyRQUT4v0xdbw">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white">
-  </a>
-
-  <a href="https://soundcloud.com/musicbydvss">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white">
-  </a>
 </div>
 
 ## Habilidades y Tecnologías
