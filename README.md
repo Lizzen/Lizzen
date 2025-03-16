@@ -21,6 +21,10 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
   </a> 
 </div>
 
+## Idiomas
+- **Español**
+- **Inglés**
+
 ## Habilidades y Tecnologías
 
 - **Lenguajes de programación:** C++, C, Java, Python, JavaScript (AJAX), VHDL, ARM.
