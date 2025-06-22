@@ -83,10 +83,10 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
 
 ### Python
   <a href="https://github.com/Lizzen/MIN">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MIN-Minería de datos y Big Data-orange?style=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MIN-Minería de datos y Big Data-green?style=auto">
   </a>
   <a href="https://github.com/Lizzen/SI">
-    <img alt="Static Badge" src="https://img.shields.io/badge/SI-Sistemas inteligentes (IA)-orange?style=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SI-Sistemas inteligentes (IA)-green?style=auto">
   </a>
   
 ## Estadísticas de GitHub
