@@ -64,7 +64,7 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
 <p>Actualmente solo están en drive las versiones finales</p>
 
   <a href="https://github.com/Lizzen/TP1">
-    <img alt="Static Badge" src="https://img.shields.io/badge/TP1-Tecnología de la programación 1-red?style=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TP1-Tecnología de la programación 1-green?style=auto">
   </a>
   <a href="https://github.com/Lizzen/TP2">
     <img alt="Static Badge" src="https://img.shields.io/badge/TP2-Tecnología de la programación 2-red?style=auto">
