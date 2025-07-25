@@ -7,16 +7,16 @@ Actualmente estoy en 4 de carrera de [Ingeniería de Computadores](https://www.u
 <p>
 Me considero una persona trabajadora y organizada con gran afán de aprender y ampliar mis conocimientos, apasionado a todo lo que tiene que ver con tecnología e informatica.<br>
 Estoy abierto a todo tipo de proyectos.<br>
-Actualmente, me llama la atención tanto el machine-learning como la algoritmia. Otros sectores que me gustan son la ciberseguridad y el hardware.
+Actualmente, me llama la atención tanto el machine-learning como la algoritmia y el hardware. Otros sectores como la ciberseguridad tambien despiertan mi interés.
 
-Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
+Si deseas conectar, no dudes en contactarme:
 </p>
 <h2 align="center">Social Media</h2>
 <div align="center">
   <a href="mailto:daviddfdiaz@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
   </a>   
-  <a href="https://www.linkedin.com/in/david-ferreras-d%C3%ADaz-6131962a5/">
+  <a href="https://www.linkedin.com/in/david-ferreras-diaz/">
     <img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
   </a> 
 </div>
@@ -27,7 +27,7 @@ Si deseas conectar o colaborar en algún proyecto, no dudes en contactarme:
 
 ## Habilidades y Tecnologías
 
-- **Lenguajes de programación:** C++, C, Java, Python, JavaScript (AJAX), VHDL, ARM.
+- **Lenguajes de programación:** C++, C y C embebido, Java, Python, JavaScript (AJAX), VHDL, ARM.
 - **Lenguajes de marcado:** HTML, CSS.
 - **Frameworks y Librerías:** SpringBoot.
 - **Bases de datos:** MySQL, MariaDB.
